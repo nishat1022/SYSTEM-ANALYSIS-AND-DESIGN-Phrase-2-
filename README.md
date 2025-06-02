@@ -1,5 +1,5 @@
-# SYSTEM ANALYSIS AND DESIGN(Phrase-2)
-This is a group project phrase -2 for SAD course 
+# SYSTEM ANALYSIS AND DESIGN (SAD)
+This is a group project (phrase -2) for SAD course 
 
 **Project Briefing** 
 
