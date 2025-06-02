@@ -1,5 +1,6 @@
-# SYSTEM-ANALYSIS-AND-DESIGN-Phrase-2-
+# SYSTEM ANALYSIS AND DESIGN(Phrase-2)
 This is a group project phrase -2 for SAD course 
+
 **Project Briefing** 
 
 The HASTA Travel UTM system is being developed to solve problems caused by old, manual systems that slow down the company's operations. Many organizations face similar issues, especially those that rely on everyday tasks to run smoothly. This project will replace these outdated methods with a faster, automated system to help HASTA manage its operations better, reduce mistakes, and make important information easier to access.
